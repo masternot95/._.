@@ -11,7 +11,7 @@
 ```js
 // Рендеринг «Hello World» с помощью квантовой запутанности  
 (=<`#9]~6ZY32Vx/4Rs+0No-&Jk)"Fh}|Bcy?`=*z]Kw%oG4UUS0/@-ejc(:'8dc
-
+```
 # WebMalbolge — фреймворк для избранных  
 
 ## Философия  
@@ -21,3 +21,4 @@
 ## Пример  
 ```malbolge
 (=<`#9]~6ZY32Vx/4Rs+0No-&Jk)"Fh}|Bcy?`=*z]Kw%oG4UUS0/@-ejc(:'8dc
+```
