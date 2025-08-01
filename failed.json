@@ -1,0 +1,8 @@
+{
+  "name": "webmalbolge",
+  "version": "666.0.0",
+  "dependencies": {
+    "quantum-entanglement": "^∞.0.0",
+    "demonic-optimizer": "latest"
+  }
+}
